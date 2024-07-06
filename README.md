@@ -12,6 +12,9 @@ Here are some screenshots of the application:
 Here's the link to download the apk:
 [Download here](https://github.com/Joshokelola/simple_shop_app/releases/download/V1.0.0/app-release.apk)
 
+## Test App Online
+[https://appetize.io/app/b_2or4fbrklhb6n7cxletcajzjm4]
+
 ## Getting Started
 1. Follow the [Flutter guide](https://docs.flutter.dev/get-started/install) to
    install Flutter and the platform of you choice (iOS and/or Android).
