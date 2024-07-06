@@ -8,6 +8,9 @@ Here are some screenshots of the application:
 <img src="screenshots/2024-07-06 22-39-27 High Res Screenshot.png" width="240">
 <img src="screenshots/2024-07-06 22-57-49 High Res Screenshot.png" width="240">
 
+## Download
+Here's the link to download the apk:
+[Download here](https://github.com/Joshokelola/simple_shop_app/releases/download/V1.0.0/app-release.apk)
 
 ## Getting Started
 1. Follow the [Flutter guide](https://docs.flutter.dev/get-started/install) to
