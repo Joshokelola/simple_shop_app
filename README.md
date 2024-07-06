@@ -20,7 +20,6 @@ Run this code first
 flutter pub get
 ```
 Then...
-Run this code first
 ```sh
 flutter run
 ```
