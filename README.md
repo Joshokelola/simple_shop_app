@@ -1,16 +1,26 @@
 # simple_shop_app
 
-A new Flutter project.
+A Simplified shopping application that displays a static list of products with a cart functionality.
+
+Here are some screenshots of the application:
+
+<img src="screenshots/2024-07-06 22-39-06 High Res Screenshot.png" width="240">
+<img src="screenshots/2024-07-06 22-39-27 High Res Screenshot.png" width="240">
+<img src="screenshots/2024-07-06 22-57-49 High Res Screenshot.png" width="240">
+
 
 ## Getting Started
+1. Follow the [Flutter guide](https://docs.flutter.dev/get-started/install) to
+   install Flutter and the platform of you choice (iOS and/or Android).
+2. Ensure Flutter is correctly configured by running `flutter doctor`
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the app
+Run this code first
+```sh
+flutter pub get
+```
+Then...
+Run this code first
+```sh
+flutter run
+```
